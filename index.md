@@ -1,8 +1,8 @@
 ## Bienvenido a mi GP
 
 ### Índice
-- [Home](https://https://matiaspagano.github.io/)
-- [Acerca de](https://https://matiaspagano.github.io/about)
+- [Home](https://matiaspagano.github.io/)
+- [Acerca de](https://matiaspagano.github.io/about)
 -
 ```markdown
 Syntax highlighted code block
