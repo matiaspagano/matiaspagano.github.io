@@ -1,5 +1,5 @@
 ## Home 
-{% include navigation.html}
+{% include navigation.html %}
 
 ```markdown
 Syntax highlighted code block
