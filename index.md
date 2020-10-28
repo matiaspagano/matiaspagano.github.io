@@ -3,7 +3,7 @@
 ### Índice
 - [Home](https://matiaspagano.github.io/)
 - [Acerca de](https://matiaspagano.github.io/about)
-- [Fin] (https://matiaspagano.github.io/end)
+- [Fin](https://matiaspagano.github.io/end)
 
 ```markdown
 Syntax highlighted code block
