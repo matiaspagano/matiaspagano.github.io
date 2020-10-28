@@ -1,12 +1,8 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
+- title: Inicio
   url: /
-
-- title: Secciones
-  url: /group/
-  sublinks:
-    - title: About
-      url: /group/about
-    - title: End
-      url: /group/end
+- title: About
+  url: /about
+- title: About
+  url: /end
