@@ -1,9 +1,9 @@
 ## Bienvenido a mi GP
 
 ### Índice
-- [Home](https://matiaspagano.github.io/)
-- [Acerca de](https://matiaspagano.github.io/about)
-- [Fin](https://matiaspagano.github.io/end)
+- [Home](index.md)
+- [Acerca de](about.md)
+- [Fin](end.md)
 
 ```markdown
 Syntax highlighted code block
