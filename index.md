@@ -1,9 +1,5 @@
-## Bienvenido a mi GP
-
-### Índice
-- [Home](index.md)
-- [Acerca de](about.md)
-- [Fin](end.md)
+## Home 
+### Home | [Acerca de](about.md) | [Fin](end.md)
 
 ```markdown
 Syntax highlighted code block
