@@ -1,5 +1,5 @@
 ## Home 
-### Home | [Acerca de](about.md) | [Fin](end.md)
+{% include navigation.html}
 
 ```markdown
 Syntax highlighted code block
