@@ -1,0 +1,6 @@
+site_name: Proyecto de Software - Guías 2020
+theme: journal
+nav:
+  - Home: index.md
+  - Acerca de: about.md
+  - Fin: end.md

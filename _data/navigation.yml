@@ -1,8 +1,0 @@
-# Belongs at: /_data/navigation.yml
-
-- title: Inicio
-  url: /
-- title: About
-  url: /about
-- title: Fin
-  url: /end

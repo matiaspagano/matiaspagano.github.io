@@ -1,5 +1,4 @@
-## Home 
-{% include navigation.html %}
+## Inicio 
 
 ```markdown
 Syntax highlighted code block
